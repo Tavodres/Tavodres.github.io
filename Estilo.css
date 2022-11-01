@@ -1,0 +1,71 @@
+h2
+{
+  
+  margin:0;
+  font-size: 30px;
+ font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+h4
+{
+  
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 300;
+}
+
+
+.tarjeta
+{
+
+padding: 100px;   
+background: white url('./imagenes/f3.jpg') no-repeat;	
+  
+   margin:50px;
+   border-radius: 20px;
+   overflow: hidden; 	
+ text-align: center; 
+
+}
+
+.gustavo
+{
+   
+    border-radius: 50%;
+    height: 160px;
+    width:  130px;
+    border: 15px solid white;
+}
+
+.acercade
+{
+    width: 80%;	
+    heigt: Auto;
+    background: #DBE9EE;
+    margin:5% auto;
+    border-radius: 20px;
+}
+
+
+.acercade .contenido .tituloSeccion
+{
+    color:#4F6D7A;
+    font-family: 'Source Sans Pro', sans-serif;	
+    font-weight: 0;
+    font-size:20px;
+    border-bottom: 10px black;
+   
+ 
+}
+
+
+.ftex
+{
+    color:#4F6D7A;
+    font-family: 'Source Sans Pro', sans-serif;	
+    font-weight: 0;
+    font-size:20px;
+    border-bottom: 10px black;
+   
+ 
+}
